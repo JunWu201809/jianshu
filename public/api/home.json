@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "data": {
+        "articleList": [
+            {
+                "id": 1,
+                "title": "Lorem ipsum dolor sit amet",
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas commodo fermentum sem vitae sodales. Vivamus maximus bibendum pretium...,",
+                "imgUrl": "/img/10472974.jpeg"
+            },
+            {
+                "id": 2,
+                "title": "Suspendisse non ligula porttitor, congue nulla eu, cursus mauris",
+                "desc": "Aliquam finibus dignissim massa, in bibendum sem faucibus vitae. In id euismod lectus...,",
+                "imgUrl": "/img/10472974.jpeg"
+            },
+            {
+                "id": 3,
+                "title": "Sed a nisl aliquam, malesuada risus non, feugiat dolor",
+                "desc": "Praesent arcu nisi, fermentum vel tellus eget, volutpat fermentum massa. Proin scelerisque augue...,",
+                "imgUrl": "/img/10472974.jpeg"
+            },
+            {
+                "id": 4,
+                "title": "Suspendisse non ligula porttitor, congue nulla eu, cursus mauris",
+                "desc": "Aliquam finibus dignissim massa, in bibendum sem faucibus vitae. In id euismod lectus...,",
+                "imgUrl": "/img/10472974.jpeg"
+            },
+            {
+                "id": 5,
+                "title": "Sed a nisl aliquam, malesuada risus non, feugiat dolor",
+                "desc": "Praesent arcu nisi, fermentum vel tellus eget, volutpat fermentum massa. Proin scelerisque augue...,",
+                "imgUrl": "/img/10472974.jpeg"
+            },
+            {
+                "id": 6,
+                "title": "Suspendisse non ligula porttitor, congue nulla eu, cursus mauris",
+                "desc": "Aliquam finibus dignissim massa, in bibendum sem faucibus vitae. In id euismod lectus...,",
+                "imgUrl": "/img/10472974.jpeg"
+            },
+            {
+                "id": 7,
+                "title": "Sed a nisl aliquam, malesuada risus non, feugiat dolor",
+                "desc": "Praesent arcu nisi, fermentum vel tellus eget, volutpat fermentum massa. Proin scelerisque augue...,",
+                "imgUrl": "/img/10472974.jpeg"
+            }
+        ],
+        "recommendList": [
+            {
+                "id": 1,
+                "imgUrl": "/img/banner-s-1.png"
+            },
+            {
+                "id": 2,
+                "imgUrl": "/img/banner-s-2.png"
+            },
+            {
+                "id": 3,
+                "imgUrl": "/img/banner-s-3.png"
+            },
+            {
+                "id": 4,
+                "imgUrl": "/img/banner-s-4.png"
+            }
+        ]
+    }
+}
